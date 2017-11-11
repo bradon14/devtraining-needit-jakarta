@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="NeedItApp" max_length="40" name="x_58872_needit_needitapp" type="collection">
+        <element label="Created by" max_length="80" name="created_by" type="field_name"/>
+        <element label="Number" max_length="40" name="number" type="integer"/>
+    </element>
+</database>
